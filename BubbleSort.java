@@ -1,5 +1,5 @@
-// program to implement Bubble sort in java because I haven't coded in a while
-//if want to declare and initialize array it looks like this: String[] myStringArray = new String[3];
+// Author: Matthew Crooks 
+// program to implement Bubble sort in java using ArrayList
 import java.util.Scanner;
 import java.util.ArrayList;
 
